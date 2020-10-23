@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Alexander Pedraza
- * Purpose:  Find all prime factors
+ * Purpose:  binary and float
  *           
  */
 
