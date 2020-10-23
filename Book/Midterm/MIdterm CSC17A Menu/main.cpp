@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   main.cpp
- * Author: alexf
- *
- * Created on October 19, 2020, 2:30 PM
+ * Author: Alexander Pedraza
+ * Purpose:  Menu for mid term
+ *           
  */
 //Libraries 
 #include <iostream>
